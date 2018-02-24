@@ -1,0 +1,43 @@
+
+
+body {
+    background-image: url("http://www.csszengarden.com/079/flower_bg.jpg");
+}
+
+h3, p {
+    font: italic;
+    font-size: 13px;
+    font-family: "Times New Roman", Times, serif;
+     
+}
+
+/* Customized CSS */
+
+.logo-container{
+    position: relative;
+    bottom: -40px;
+}
+
+.logo1 {
+    background: no-repeat;
+}
+
+.logo2 {
+    position: relative;
+    left: 100px;
+    margin-left: -20px;
+    
+}
+
+.left-column {
+    width:300px;
+    position: left;
+}
+
+.right-column{
+    display: flex;
+    float: right;
+    width:600px;
+    height: 110px;
+    overflow: scroll;
+}
