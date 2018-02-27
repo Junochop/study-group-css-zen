@@ -30,15 +30,36 @@ h3, p {
 }
 
 .left-column {
+    
     width:300px;
     position: left;
+    padding: 35px;
 }
 
 .right-column{
-    display: flex;
+    margin-top: -20%;
+    margin-right: 220px;
+    padding: 40px;
     float: right;
-    width:600px;
-    height: 110px;
+    width:800px;
+    height: 200px;
     overflow: scroll;
 }
 
+.bottom-right-column{
+    margin-top:-11%;
+    margin-right: 220px;
+    padding: 40px;
+    float: right;
+    width:800px;
+    height: 200px;
+
+}
+
+.bottom-left-column{
+    position: absolute
+    margin-top:-5%;
+    margin-right: 220px;
+    padding: 40px;
+
+}
