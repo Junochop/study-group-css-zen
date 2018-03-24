@@ -16,7 +16,7 @@ CSS.
 ## Contributors
 [juno lee](https://github.com/Junochop)
 
-##Team: 
+## Team: 
 - Corey
 - Drake
 - Barry 
